@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/budget_planner_hooks/static/css/main.89c81d84.chunk.css",
-    "main.js": "/budget_planner_hooks/static/js/main.55be8b05.chunk.js",
-    "main.js.map": "/budget_planner_hooks/static/js/main.55be8b05.chunk.js.map",
+    "main.js": "/budget_planner_hooks/static/js/main.4002ed09.chunk.js",
+    "main.js.map": "/budget_planner_hooks/static/js/main.4002ed09.chunk.js.map",
     "runtime-main.js": "/budget_planner_hooks/static/js/runtime-main.c635cbf1.js",
     "runtime-main.js.map": "/budget_planner_hooks/static/js/runtime-main.c635cbf1.js.map",
     "static/js/2.78ffe5a6.chunk.js": "/budget_planner_hooks/static/js/2.78ffe5a6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c635cbf1.js",
     "static/js/2.78ffe5a6.chunk.js",
     "static/css/main.89c81d84.chunk.css",
-    "static/js/main.55be8b05.chunk.js"
+    "static/js/main.4002ed09.chunk.js"
   ]
 }
